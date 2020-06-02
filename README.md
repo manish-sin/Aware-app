@@ -17,7 +17,7 @@ It
 
 ### Use case
 
-- Case 1: Every professional estimate the time he will require to finish a task, before hi start, whether the task it to ppt, Finish a report or photoshop an image He/she will be able to monitor that by knowing how long did he use certain applications to achieve his task. If this is done on a regular basis he/she will be able to calibrate his self-efficacy. 
+- Case 1: Every professional estimates the time he will require to finish a task, even before he starts it, whether the task it to Finish a report or photoshop an image. With aware he will be able to track time he spent on certain applications to achieve his task. If this is done on a regular basis he/she will be able to calibrate his self-efficacy. 
 For example: If I had decided to finish writing a certain part of this software, I should ask myself should I have taken 148 mins?
 Fig 1:
 <img src="Screenshot/App.png" width=600 >
