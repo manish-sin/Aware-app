@@ -6,6 +6,7 @@ Aware is a tool to help you monitor self-efficacy (your confidence to finish a t
 It 
   - logs the name of active window and duration of activity on it
   - produces a report of logs in a meaningful way
+Note: It has been tested only on windows 10 as of now.
 
 ### Features
 
