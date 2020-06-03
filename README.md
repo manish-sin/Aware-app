@@ -35,7 +35,7 @@ Fig 2:
 3. Allow the Administrator to install, by clicking "yes".
 4. When the process complete, Once below screen appears following window will appear to close both.
 
-<img src="Screenshot/install Dialog box.png" width=600 >
+<img src="Screenshot/install Dialog box.png" width=300 >
 
 <img src="Screenshot/install window.png" width=600 >
 5. To uninstall simply delete the aware folder from C-drive
