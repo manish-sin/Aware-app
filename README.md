@@ -6,7 +6,7 @@ Aware is a tool to help you monitor self-efficacy (your confidence to finish a t
 It 
   - logs the name of active window and duration of activity on it
   - produces a report of logs in a meaningful way
-  - 
+
 ### Features
 
   - It works locally on your PC and does not require internet; Hence it is highly safe as it doesn't share data over the internet
@@ -31,13 +31,13 @@ Fig 2:
 ### Instalation
 #### Install & Uninstall
 1. Download the app repository
-2. Run the aware.exe
+2. Aware.exe is the setup file, click to install the program
 3. Allow the Administrator to install, by clicking "yes".
-4. When the process is completed, screens shown below will appear to close both.
+4. When the process is completed, below shown screen will appear. Please click "close" to complete the installation.
 
 <img src="Screenshot/install Dialog box.png" width=300 >
 
-5. To uninstall simply delete the "Aware" folder from C-drive
+
 
 
 #### Start Stop Instruction
