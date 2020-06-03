@@ -17,7 +17,7 @@ It
 
 ### Use case
 
-- Case 1: Every professional estimate the time he will require to finish a task, before hi start, whether the task it to ppt, Finish a report or photoshop an image He/she will be able to monitor that by knowing how long did he use certain applications to achieve his task. If this is done on a regular basis he/she will be able to calibrate his self-efficacy. 
+- Case 1: Every professional estimate the time he will require to finish a task, before hi start, whether the task it to finish a report or photoshop an image He/she will be able to monitor that by knowing how long did he use certain applications to achieve his task. If this is done on a regular basis he/she will be able to calibrate his self-efficacy. 
 For example: If I had decided to finish writing a certain part of this software, I should ask myself should I have taken 148 mins?
 Fig 1:
 <img src="Screenshot/App.png" width=600 >
@@ -30,15 +30,14 @@ Fig 2:
 
 ### Instalation
 #### Install & Uninstall
-1. Download the app from 
+1. Download the app repository
 2. Run the aware.exe
 3. Allow the Administrator to install, by clicking "yes".
-4. When the process complete, Once below screen appears following window will appear to close both.
+4. When the process is completed, screens shown below will appear to close both.
 
 <img src="Screenshot/install Dialog box.png" width=300 >
 
-<img src="Screenshot/install window.png" width=600 >
-5. To uninstall simply delete the aware folder from C-drive
+5. To uninstall simply delete the "Aware" folder from C-drive
 
 
 #### Start Stop Instruction
@@ -51,7 +50,7 @@ Fig 2:
 1. Go to the windows and open the task scheduler and refresh it.
 2. Look for "aware" service and right click and run it
 <img src="Screenshot/Task Scheduler.png" width=600 >
-Note: On startup, it takes 10-20mins to start the aware automatically,  In case you wish to start the app on as soon as laptop starts, you will have to do it manually (read "Start & stop the app" instruction)
+Note: On startup, it takes 10-20mins to start the aware automatically,  In case you wish to start the app on as soon as system starts, you will have to do it manually (read "Start & stop the app" instruction)
 
 ### Exploring Report
 To open the report, make sure Aware is running  and then hit "http://localhost:5000/". 
