@@ -76,3 +76,5 @@ Ans: No it doesn't track anything else accept Name of Active Window.
 Ans: All logs are saved on your PC locally, it not sent over the internet. The code for Aware is available, you may check it.
 5. Some of the items among Horizontal bars has value zero, what does that mean?
 Ans: All the values shown are in minutes, hence Zero minutes mean that windows were open for less than a minute.
+6. Why does it require admin permission?
+Ans: Permission is required to set the app to start on start-up
